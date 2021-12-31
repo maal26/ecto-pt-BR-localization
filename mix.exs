@@ -6,7 +6,7 @@ defmodule EctoPtbrLocalization.MixProject do
       app: :ecto_ptbr_localization,
       package: package(),
       description: description(),
-      version: "0.1.1",
+      version: "0.1.0",
       elixir: "~> 1.13",
       start_permanent: Mix.env() == :prod,
       deps: deps()
