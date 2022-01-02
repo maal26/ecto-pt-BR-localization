@@ -22,7 +22,7 @@ by adding `ecto_ptbr_localization` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:ecto_ptbr_localization, "~> 0.1.0"}
+    {:ecto_ptbr_localization, "~> 0.1.1"}
   ]
 end
 ```
